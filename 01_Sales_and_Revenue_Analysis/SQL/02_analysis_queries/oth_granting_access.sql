@@ -1,0 +1,2 @@
+GRANT USAGE ON SCHEMA analytics TO public;
+GRANT SELECT ON ALL TABLES IN SCHEMA analytics TO public;
