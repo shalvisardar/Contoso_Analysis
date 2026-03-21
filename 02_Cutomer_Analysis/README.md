@@ -136,7 +136,7 @@ Customer behavior over time reveals lifecycle patterns.
 # Key Insights
 
 **1. Retention is the Primary Challenge**
-- Majority of customers churn after first purchase  
+- Majority of customers churn after their first purchase  
 - Long-term retention remains low  
 
 **2. Revenue is Highly Concentrated**
@@ -159,7 +159,7 @@ Customer behavior over time reveals lifecycle patterns.
 
 # Dashboard Preview
 
-![Customer Overview](images\page1_overview.png)
+![Customer Overview](images/page1_overview.png)
 
 **Page 1 - Customer Overview**
 - KPI summary (Customers, Revenue, Profit, CLV, Orders per Customer)  
@@ -168,7 +168,7 @@ Customer behavior over time reveals lifecycle patterns.
 
 <br>
 
-![Retention & Cohorts](images\page2_cohort_and_retention.png)
+![Retention & Cohorts](images/page2_cohort_and_retention.png)
 
 **Page 2 - Retention & Cohorts**
 - Survival curve  
@@ -177,7 +177,7 @@ Customer behavior over time reveals lifecycle patterns.
 
 <br>
 
-![Customer Segments](images\page3_customer_segments.png)
+![Customer Segments](images/page3_customer_segments.png)
 
 **Page 3 - Customer Segments**
 - Revenue *vs* Customer share  
@@ -185,7 +185,7 @@ Customer behavior over time reveals lifecycle patterns.
 
 <br>
 
-![RFM Migration](images\page4_segment_migration.png)
+![RFM Migration](images/page4_segment_migration.png)
 
 **Page 4 - RFM Segment Migration**
 - Customer movement across segments  
