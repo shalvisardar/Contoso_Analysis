@@ -36,7 +36,7 @@ This analysis aims to:
 ## Data Validation
 
 - Date Range: **2015-01-01 to 2024-04-20**    
-- Total Customers: **~ 49K**  
+- Total Customers: **~49K**  
 - No major data quality issues identified  <br><br><br>
 
 
