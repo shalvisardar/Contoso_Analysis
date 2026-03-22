@@ -1,11 +1,11 @@
-# Sales & Revenue Analysis (2019–2023)
+# Sales & Revenue Analysis (2019-2023)
 
-Comprehensive analysis of **Contoso's** five-year business performance (2019–2023). Focusing on **sales performance**; especially revenue trends, pricing strategy, margin resilience and overall economic cycle behavior.
+Comprehensive analysis of **Contoso's** five-year business performance (2019-2023). Focusing on **sales performance**; especially revenue trends, pricing strategy, margin resilience, and overall economic cycle behavior.
 
 
 ## Project Objective
 
-This project analyzes a five-year sales cycle (2019–2023) to:
+This project analyzes a five-year sales cycle (2019-2023) to:
 
 - Analyze revenue, profit, and cost trends  
 - Investigate the 2022 order value decline and its drivers  
@@ -65,10 +65,9 @@ Significant decline across revenue, profit, orders, and customers - consistent w
 ### 2023  
 - Metrics declined to pre-pandemic levels
 - Revenue contributions became more distributed
+<br><br>
 
----
-
-## Investigating : 2022 
+## Investigating: 2022 
 ### AOV Decomposition
 
 Since: 
@@ -76,13 +75,12 @@ Since:
     AOV = Price per Unit × Units per Order
 
 In 2022:
-- Price per Unit : **↓ 15.7%**
-- Units per Order : **↑ 1.06%**
+- Price per Unit: **↓ 15.7%**
+- Units per Order: **↑ 1.06%**
 
 *(Interpretation)*<br>
-This indicates that AOV decline was **Price-driven**, not Basket-size driven.
-
----
+This indicates that AOV decline was **Price-driven**, not Basket-size driven. 
+<br><br>
 
 ### Product-Level Pricing Strategy
 
@@ -100,10 +98,8 @@ This suggests deliberate repricing of flagship products.
 However, two questions arise: 
 
 1. How did the **Profit Margin** remain **relatively stable**? 
-2. Why were these **specific products targeted** for price-cuts? 
-
-
----
+2. Why were these **specific products targeted** for price-cuts?
+<br><br>
 
 ### 1. Margin Resilience Analysis
 
@@ -124,9 +120,9 @@ Despite broad price cuts:
 - **Desktops :** ↓ 36.46% impact  
 - **Laptops :** ↑ 8.58% impact
 
-
 *(Interpretation)*  
-Margin stability was supported by **diversified contribution** and **strategic balancing** across product tiers.
+Margin stability was supported by **diversified contribution** and **strategic balancing** across product tiers. 
+<br><br>
 
 ### 2. Strategic Price Targeting
 
@@ -135,8 +131,7 @@ Several **Top revenue contributors of 2021** were among the **Top Price cutters 
 This *suggests* targeted repricing of flagship categories. *Likely* to defend market share and/or stimulate demand.
 
 ![Pricing Strategy Matrix](images/pricing_matrix.png)
-
----
+<br><br>
 
 ## Business Cycle Interpretation
 
@@ -148,8 +143,8 @@ The 2019–2023 period reflects a managed economic cycle:
 **2022:** Strategic Expansion & Price Compression<br>
 **2023:** Rebalancing & Normalization  
 
-The observed trends suggest a **structured and potentially strategic response to economic disruption** rather than purely reactive volatility.<br><br><br>
-
+The observed trends suggest a **structured and potentially strategic response to economic disruption** rather than purely reactive volatility.
+<br><br><br>
 
 # Dashboard Preview
 
@@ -160,6 +155,7 @@ Page 1 – Executive Overview
 - 5-year trend analysis 
 - Profit margin change highlight 
 - AOV trend visualization
+
 <br><br>
 
 ![2022 Deep Dive](images/page2_deepdive.png)
@@ -168,6 +164,7 @@ Page 2 – 2022 Deep Dive
 - AOV decomposition 
 - Top 10 revenue contributors & price changes 
 - Revenue Share vs Margin Change scatter plot
+
 <br><br>
 
 ![Cycle Interpretation](images/page3_cycle.png)
