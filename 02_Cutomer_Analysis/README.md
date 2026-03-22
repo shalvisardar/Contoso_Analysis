@@ -58,8 +58,8 @@ This indicates a **high dependency on a relatively small customer base**, while 
 
 Initial analysis revealed a significant retention challenge:
 
-- Only **11.34%** of customers return for a second purchase  
-- Post first purchase, retention stabilizes at ~**12% per cohort**
+- Only **11.34%** of customers return for a second purchase the next year  
+- Post first year, retention stabilizes at ~**12% per cohort**
 
 This indicates that the **largest drop-off** occurs **immediately after acquisition**.
 
