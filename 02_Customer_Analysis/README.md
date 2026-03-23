@@ -36,7 +36,7 @@ This analysis aims to:
 ## Data Validation
 
 - Date Range: **2015-01-01 to 2024-04-20**    
-- Total Customers: **~ 49K**  
+- Total Customers: **~49K**  
 - No major data quality issues identified  <br><br><br>
 
 
@@ -58,7 +58,7 @@ This indicates a **high dependency on a relatively small customer base**, while 
 
 Initial analysis revealed a significant retention challenge:
 
-- Only **11.34%** of customers return for a second purchase  
+- Only **11.34%** of customers return for a second purchase the next year  
 - Post first purchase, retention stabilizes at ~**12% per cohort**
 
 This indicates that the **largest drop-off** occurs **immediately after acquisition**.
